@@ -1,0 +1,5 @@
+*.v11.suo
+ChromiumBackground/bin/Debug/
+ChromiumBackground/obj/Debug/
+CSShellExtContextMenuHandler/obj/Debug/
+Debug/
